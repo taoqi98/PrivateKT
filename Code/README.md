@@ -7,7 +7,7 @@
 - utils.py: containing some util functions
 - model.py: implementation of the basic model
 - evaluation.py: performance evaluation function
-- PrivateKT.py: implementation of the PrivateKT method, including the importance sampling mechanism, knowledge buffer mechanism, self-training mechanism, randomized response mechanism, and unbiased knowledge aggregation
+- PrivateKT.py: implementation of the PrivateKT method, including the importance sampling mechanism, knowledge buffer mechanism, self-training mechanism, randomized response mechanism, and unbiased knowledge aggregation, it also includes the fedetarated traning framework of PrivateKT 
 - main.ipynb: organizing the whole knowledge transfer framework
 
 
